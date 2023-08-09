@@ -1,0 +1,64 @@
+{
+"daftar": [
+            {
+            "judul" : "HARI KIAMAT",
+            "pengarang" : "Pengarang :sigun",
+            "terbit" : "Terbit: 27-10-2002",
+            "gambar" : "b11.jpg",
+            "harga" :"28.000"
+            },
+            {
+            "judul" : "SI KANCIL",
+            "pengarang" : "Pengarang: Hawary",
+            "terbit" : "Terbit:01-10-2022",
+            "gambar" : "b2.jpg",
+            "harga" :"59.999"
+            
+            },
+            {
+            "judul" : "FISIKA",
+            "pengarang" : "Pengarang:Rahmad Boco",
+            "terbit" : "Terbit:22-10-2042",
+            "gambar" : "b3.jpg",
+            "harga" :"60.500."
+            },
+            {
+            "judul" : "BUKU SAKTI",
+            "pengarang" : "Pengarang: rizky ramadhan",
+            "terbit" : "Terbit:11-10-2012",
+            "gambar" : "b4.jpg",
+            "harga" :"80.000"
+            },
+           
+            {
+           "judul" : "101 Cara Gagal dalam Menemukan Cinta Sejati",
+           "pengarang" : "Pengarang:Riza Febrian",
+           "terbit" : "Terbit:15-1-2026",
+           "gambar" : "b5.jpg",
+           "harga" :"150.000"
+           },
+           {
+           "judul" : "Cara Menjadi Laki-Laki",
+           "pengarang" : "Pengarang:Gunawan",
+           "terbit" : "Terbit:02-7-1998",
+           "gambar" : "b6.jpg",
+           "harga" :"250.000"
+           },
+            {
+          "judul" : "Algoritma Menggunakan Pyton",
+          "pengarang" : "Pengarang: Thamus",
+          "terbit" : "Terbit:23-1-2026",
+          "gambar" : "b7.jpg",
+          "harga" :"50.000"
+
+           }, 
+           {
+          "judul" : "Buku Mahir Web Programing",
+          "pengarang" : "Pengarang: Estes solo buf",
+          "terbit" : "Terbit:22-1-20",
+          "gambar" : "b8.jpg",
+          "harga" :"50.000"
+         }          
+]
+
+}
